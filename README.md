@@ -1,6 +1,7 @@
 ### CarDetection contest 2
 
-chevrolet : malibu      2012~2016   000
+chevrolet : 
+						malibu      2012~2016   000
 
 
             malibu      2017~2019   001
@@ -15,7 +16,8 @@ chevrolet : malibu      2012~2016   000
             trax        2017~2019   004
             
             
-genesis     g80         2016~2020   005
+genesis :     
+						g80         2016~2020   005
 
 
             g80         2021        006
@@ -24,7 +26,8 @@ genesis     g80         2016~2020   005
             gv80        2020        007
             
             
-hyundai     avante      2011~2015   008
+hyundai :    
+						avante      2011~2015   008
 
 
             avante      2020        009
@@ -48,7 +51,8 @@ hyundai     avante      2011~2015   008
             sonata      2019~2020   015
             
             
-kia         carnival    2015~2020   016
+kia :        
+						carnival    2015~2020   016
 
 
             carnival    2021        017
@@ -90,13 +94,15 @@ kia         carnival    2015~2020   016
             stonic      2017~2019   029
             
             
-renault     sm3         2015~2018   030
+renault :    
+						sm3         2015~2018   030
 
 
             xm3         2020        031
             
             
-ssangyong   korando     2019~2020   032
+ssangyong :
+					  korando     2019~2020   032
 
 
             tivoli      2016~2020   033
