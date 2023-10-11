@@ -1,7 +1,6 @@
 ### CarDetection contest 2
 
 chevrolet : 
-
 				malibu      2012~2016   000
 
 
@@ -18,7 +17,6 @@ chevrolet :
             
             
 genesis :     
-
 				g80         2016~2020   005
 
 
@@ -29,7 +27,6 @@ genesis :
             
             
 hyundai :    
-
 				avante      2011~2015   008
 
 
@@ -55,7 +52,6 @@ hyundai :
             
             
 kia :        
-
 				carnival    2015~2020   016
 
 
@@ -99,7 +95,6 @@ kia :
         
             
 renault :    
-
 				sm3         2015~2018   030
 
 
@@ -107,7 +102,6 @@ renault :
             
             
 ssangyong :
-
 			  korando     2019~2020   032
 
 
