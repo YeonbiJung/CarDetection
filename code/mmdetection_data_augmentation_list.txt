@@ -1,30 +1,30 @@
 # /mmdetection/mmdet/datasets/pipelines/transforms/transforms.py 참조
 
 
-Resize
-FixScaleResize
-ResizeShortestEdge
-FixShapeResize
-RandomFlip
-RandomShift
-Pad
-RandomCrop
-SegRescale
-PhotoMetricDistortion
-Expand
-MinIoURandomCrop
-Corrupt
-Albu
-RandomCenterCropPad
-CutOut
-Mosaic
-MixUp
-RandomAffine
-YOLOXHSVRandomAug
-CopyPaste
-RandomErasing
-CachedMosaic
-CachedMixUp
+Resize - 135 line
+FixScaleResize - 250 line
+ResizeShortestEdge - 282 line
+FixShapeResize - 359 line
+RandomFlip - 496 line
+RandomShift - 600 line
+Pad - 705 line
+RandomCrop - 788 line 
+SegRescale - 1033 line
+PhotoMetricDistortion - 1084 line
+Expand - 1214 line
+MinIoURandomCrop - 1338 line
+Corrupt - 1494 line
+Albu - 1546 line
+RandomCenterCropPad - 1788 line
+CutOut - 2163 line
+Mosaic - 2254 line 
+MixUp - 2514 line
+RandomAffine - 2736 line
+YOLOXHSVRandomAug - 2905 line
+CopyPaste - 2965 line
+RandomErasing - 3183 line
+CachedMosaic - 3342 line
+CachedMixUp - 3577 line
 
 
 
